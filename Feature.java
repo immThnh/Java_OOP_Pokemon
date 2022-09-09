@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Ex{
+public class Feature{
 
     private ArrayList<Pokemon>  pList = new ArrayList<>();
     private Scanner sc = new Scanner(System.in);
